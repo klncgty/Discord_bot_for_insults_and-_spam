@@ -35,4 +35,4 @@ class GptService:
         
         except Exception as e:
                 print(e)
-                return "Something went wrong..."
+                return "Hata!"
